@@ -58,7 +58,7 @@ This helps students build meaningful cross-cultural friendships, see other ways 
 Invite Network School to join a research-based AI learning program you’re co-leading this term with schools and universities. The program focuses on student-led use of AI, data sovereignty, and ethical tool-building.
 
 **Student Involvement:**
-- Running and customizing **local LLMs** (not relying on ChatGPT or OpenAI)  
+- Running and customising **local LLMs** (not relying on ChatGPT or OpenAI)  
 - Learning **prompt engineering** and AI creativity techniques  
 - Building tools, games, or media with AI  
 - Contributing to real educational research outcomes
