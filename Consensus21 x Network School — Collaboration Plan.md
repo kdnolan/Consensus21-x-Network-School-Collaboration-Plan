@@ -13,9 +13,9 @@ This partnership between **Consensus21**, **Network School**, and **Boneo Primar
 Establish a persistent, shared Minecraft Education server where students from Consensus21, Network School, and Boneo Primary can collaborate on educational projects, design challenges, and creative learning missions.
 
 **Features:**
-- Safe, Chromebook-friendly environment  
+- Safe, cross platform environment  
 - Cross-school builds aligned to curriculum goals  
-- Creative missions around sustainability, design, coding, and AI  
+- Creative missions around design, coding, and AI  
 - 24/7 access for asynchronous and global learning
 
 **Why it matters:**  
